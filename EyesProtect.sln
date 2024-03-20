@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyesProtect", "EyesProtect\EyesProtect.csproj", "{EC32FA0B-B308-4F96-89AD-89CA7066E59E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProtectEyes", "ProtectEyes\ProtectEyes.vdproj", "{B8C1DF49-5F35-4786-86BE-33320EF18B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC32FA0B-B308-4F96-89AD-89CA7066E59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC32FA0B-B308-4F96-89AD-89CA7066E59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC32FA0B-B308-4F96-89AD-89CA7066E59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC32FA0B-B308-4F96-89AD-89CA7066E59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C1DF49-5F35-4786-86BE-33320EF18B98}.Debug|Any CPU.ActiveCfg = Debug
+		{B8C1DF49-5F35-4786-86BE-33320EF18B98}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C908C0-1E96-492D-9983-024551A2FEA0}
+	EndGlobalSection
+EndGlobal
